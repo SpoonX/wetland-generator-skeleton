@@ -1,6 +1,6 @@
 {
   "name": "wetland-generator-skeleton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The wetland-generator skeleton for an easy start.",
   "main": "index.js",
   "scripts": {
@@ -23,10 +23,8 @@
   },
   "homepage": "https://github.com/SpoonX/wetland-generator-skeleton#readme",
   "dependencies": {
-    "node-emoji": "^1.5.1"
-  },
-  "peerDependencies": {
+    "node-emoji": "^1.5.1",
     "wetland": "^1.5.0",
-    "boards": "^0.0.4"
+    "boards": "^1.0.0"
   }
 }
